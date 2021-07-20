@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Pico
+  annotations:
+    github.com/project-slug: chennas/Pico
+spec:
+  type: other
+  lifecycle: unknown
